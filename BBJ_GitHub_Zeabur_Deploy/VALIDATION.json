@@ -1,0 +1,23 @@
+{
+  "source": 827,
+  "keysPerLanguage": 809,
+  "languages": [
+    "en",
+    "ms",
+    "zh",
+    "vi",
+    "th",
+    "bn"
+  ],
+  "counts": {
+    "new": 270,
+    "shared": 398,
+    "kept": 74,
+    "pattern": 67
+  },
+  "excluded": 18,
+  "formatAndNumericChecks": "passed",
+  "nativeReview": false,
+  "liveWebsiteTest": false,
+  "deployed": false
+}

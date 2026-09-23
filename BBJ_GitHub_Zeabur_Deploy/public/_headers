@@ -1,0 +1,46 @@
+/version.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache, must-revalidate
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
+/translations/en.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache, must-revalidate
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
+/translations/ms.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache, must-revalidate
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
+/translations/zh.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache, must-revalidate
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
+/translations/vi.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache, must-revalidate
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
+/translations/th.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache, must-revalidate
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
+/translations/bn.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache, must-revalidate
+  Access-Control-Allow-Origin: *
+  X-Content-Type-Options: nosniff
+
+/health.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+  Access-Control-Allow-Origin: *
